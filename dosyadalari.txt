@@ -1,0 +1,12 @@
+dosyalar
+index.php
+takim.php
+xox.php++
+magaza.php
+sepet.php
+siparisler.php
+hakkimizda.php
+sss.php
+iletisim.php
+header.php     ++
+footer.php     ++
